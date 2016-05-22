@@ -6,8 +6,12 @@ A collection of notebooks written for the **getting started** projects available
 
 ### Titanic: Machine Learning from Disaster
 
+https://www.kaggle.com/c/titanic
+
 Random Forest and XGBoost Classifiers
 
 ### Digit Recognizer
+
+https://www.kaggle.com/c/digit-recognizer
 
 Convolutional Neural Network implemented using Theano, lasagne and nolearn
